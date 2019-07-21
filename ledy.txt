@@ -5,6 +5,10 @@ test change : git status.
 
 practise version backward.
 
+<<<<<<< HEAD
 branch dev test.
 
-master under test.
+master under test  ************.
+=======
+branch fenzhi1 test.
+>>>>>>> fenzhi1
